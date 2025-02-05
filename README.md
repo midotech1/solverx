@@ -5,7 +5,7 @@ this tool a information gathering tool can give you informations of any host lik
 Install
 -
 git clone https://github.com/midotech1/solverx
-apt-get install python
-pip install pyfiglet
-cd solverx
-python solverx.py
+ && apt-get install python
+ && pip install pyfiglet
+ && cd solverx
+ && python solverx.py
