@@ -1,0 +1,2 @@
+please install pyfiglet after run code
+pip install pyfiglet
